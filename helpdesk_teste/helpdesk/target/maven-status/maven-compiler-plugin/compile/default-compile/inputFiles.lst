@@ -1,0 +1,15 @@
+e:\ProjetosProgramacao_2024\ProjetoProg_JAVA\Java.V.17_QUARKUS\helpdesk_teste\helpdesk\src\main\java\com\blackcode\helpdesk\config\DevConfig.java
+e:\ProjetosProgramacao_2024\ProjetoProg_JAVA\Java.V.17_QUARKUS\helpdesk_teste\helpdesk\src\main\java\com\blackcode\helpdesk\config\TestConfig.java
+e:\ProjetosProgramacao_2024\ProjetoProg_JAVA\Java.V.17_QUARKUS\helpdesk_teste\helpdesk\src\main\java\com\blackcode\helpdesk\domain\Chamado.java
+e:\ProjetosProgramacao_2024\ProjetoProg_JAVA\Java.V.17_QUARKUS\helpdesk_teste\helpdesk\src\main\java\com\blackcode\helpdesk\domain\Cliente.java
+e:\ProjetosProgramacao_2024\ProjetoProg_JAVA\Java.V.17_QUARKUS\helpdesk_teste\helpdesk\src\main\java\com\blackcode\helpdesk\domain\enums\Perfil.java
+e:\ProjetosProgramacao_2024\ProjetoProg_JAVA\Java.V.17_QUARKUS\helpdesk_teste\helpdesk\src\main\java\com\blackcode\helpdesk\domain\enums\Prioridade.java
+e:\ProjetosProgramacao_2024\ProjetoProg_JAVA\Java.V.17_QUARKUS\helpdesk_teste\helpdesk\src\main\java\com\blackcode\helpdesk\domain\enums\Status.java
+e:\ProjetosProgramacao_2024\ProjetoProg_JAVA\Java.V.17_QUARKUS\helpdesk_teste\helpdesk\src\main\java\com\blackcode\helpdesk\domain\Pessoa.java
+e:\ProjetosProgramacao_2024\ProjetoProg_JAVA\Java.V.17_QUARKUS\helpdesk_teste\helpdesk\src\main\java\com\blackcode\helpdesk\domain\Tecnico.java
+e:\ProjetosProgramacao_2024\ProjetoProg_JAVA\Java.V.17_QUARKUS\helpdesk_teste\helpdesk\src\main\java\com\blackcode\helpdesk\HelpdeskApplicationts.java
+e:\ProjetosProgramacao_2024\ProjetoProg_JAVA\Java.V.17_QUARKUS\helpdesk_teste\helpdesk\src\main\java\com\blackcode\helpdesk\repository\ChamadoRepository.java
+e:\ProjetosProgramacao_2024\ProjetoProg_JAVA\Java.V.17_QUARKUS\helpdesk_teste\helpdesk\src\main\java\com\blackcode\helpdesk\repository\ClienteRepository.java
+e:\ProjetosProgramacao_2024\ProjetoProg_JAVA\Java.V.17_QUARKUS\helpdesk_teste\helpdesk\src\main\java\com\blackcode\helpdesk\repository\PessoaRepository.java
+e:\ProjetosProgramacao_2024\ProjetoProg_JAVA\Java.V.17_QUARKUS\helpdesk_teste\helpdesk\src\main\java\com\blackcode\helpdesk\repository\TecnicoRepository.java
+e:\ProjetosProgramacao_2024\ProjetoProg_JAVA\Java.V.17_QUARKUS\helpdesk_teste\helpdesk\src\main\java\com\blackcode\helpdesk\services\DBService.java

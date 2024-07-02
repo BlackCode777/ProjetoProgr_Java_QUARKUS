@@ -1,0 +1,15 @@
+com\blackcode\helpdesk\repository\ClienteRepository.class
+com\blackcode\helpdesk\config\TestConfig.class
+com\blackcode\helpdesk\domain\Chamado.class
+com\blackcode\helpdesk\repository\TecnicoRepository.class
+com\blackcode\helpdesk\HelpdeskApplicationts.class
+com\blackcode\helpdesk\domain\enums\Status.class
+com\blackcode\helpdesk\domain\enums\Prioridade.class
+com\blackcode\helpdesk\domain\Pessoa.class
+com\blackcode\helpdesk\repository\PessoaRepository.class
+com\blackcode\helpdesk\repository\ChamadoRepository.class
+com\blackcode\helpdesk\domain\Cliente.class
+com\blackcode\helpdesk\services\DBService.class
+com\blackcode\helpdesk\domain\enums\Perfil.class
+com\blackcode\helpdesk\domain\Tecnico.class
+com\blackcode\helpdesk\config\DevConfig.class
